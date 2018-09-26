@@ -7,8 +7,18 @@
 ## JavaScript Engines
 
 ## JavaScript Core
+### Books
 1. [**Speaking JavaScript**  by Dr. Axel Rauschmayer](http://speakingjs.com/es5/index.html)
 2. [**Exploring ES6** by Dr. Axel Rauschmayer](http://exploringjs.com/es6.html)
+### Articles
+1. [Understanding prototypes _by wanago.io_](https://wanago.io/2018/03/19/prototype-the-big-bro-behind-es6-class/)
+
+## JavaScript Testing
+1. **JavaScript testing tutorial** _by wanago.io_
+  * [Part 1. Explaining types of tests. Basics of unit testing with Jest](https://wanago.io/2018/08/27/testing-javascript-tutorial-types-of-tests-of-unit-testing-with-jest/)
+  * [Part 2. Introducing Enzyme and testing React components](https://wanago.io/2018/09/03/javascript-testing-tutorial-part-two-introducing-enzyme-and-testing-react-components/)
+  * [Part 3. Testing props, the mount function and snapshot tests](https://wanago.io/2018/09/10/javascript-testing-tutorial-part-three-testing-props-the-mount-function-and-snapshot-tests/)
+  * [Part 4. Mocking API calls and simulating React components interactions](https://wanago.io/2018/09/17/javascript-testing-tutorial-part-four-mocking-api-calls-and-simulating-react-components-interactions/)
 
 ## React
 
