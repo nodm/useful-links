@@ -11,7 +11,22 @@
 1. [**Speaking JavaScript**  by Dr. Axel Rauschmayer](http://speakingjs.com/es5/index.html)
 2. [**Exploring ES6** by Dr. Axel Rauschmayer](http://exploringjs.com/es6.html)
 ### Articles
-1. [Understanding prototypes _by wanago.io_](https://wanago.io/2018/03/19/prototype-the-big-bro-behind-es6-class/)
+1. [Prototype. The big bro behind ES6 class _by wanago.io_](https://wanago.io/2018/03/19/prototype-the-big-bro-behind-es6-class/)
+2. [Understanding events. Bubbling and capturing _by wanago.io_](https://wanago.io/2018/07/02/understanding-events-bubbling-and-capturing/)
+3. [Diving deeper into the Event object. Creating and using custom events _by wanago.io_](https://wanago.io/2018/07/09/diving-deeper-into-the-event-object-creating-and-using-custom-events/)
+4. [Understanding memory management and the garbage collector _by wanago.io_](https://wanago.io/2018/06/25/understanding-memory-management-and-the-garbage-collector/)
+5. [Cookies: explaining document.cookie and the Set-Cookie header _by wanago.io_](https://wanago.io/2018/06/18/cookies-explaining-document-cookie-and-the-set-cookie-header/)
+6. [Web Storage API: localStorage and sessionStorage _by wanago.io_](https://wanago.io/2018/06/11/web-storage-api-localstorage-and-sessionstorage/)
+7. [Scopes in JavaScript. Different types of variable declarations _by wanago.io_](https://wanago.io/2018/03/26/scopes-in-javascript-different-types-of-variable-declarations/)
+8. [Explaining promises and callbacks while implementing a sorting algorithm _by wanago.io_](https://wanago.io/2018/04/09/explaining-promises-and-callbacks-while-implementing-a-sorting-algorithm/)
+9. [Explaining async/await. Creating dummy promises _by wanago.io_](https://wanago.io/2018/04/16/explaining-async-await-creating-dummy-promises/)
+10. [When async is just not enough. An introduction to multithreading in the browser _by wanago.io_](https://wanago.io/when-async-is-not-enough-introduction-to-multithreading-in-the-browser#new_tab)
+11. [Cloning objects in JavaScript. Looking under the hood of reference and primitive types _by wanago.io_](https://wanago.io/2018/02/12/cloning-objects-in-javascript-looking-under-the-hood-of-reference-and-primitive-types/)
+12. [What is “this”? Arrow functions _by wanago.io_](https://wanago.io/2018/02/26/what-is-this-arrow-functions/)
+13. [Defining the undefined. A try/catch trick _by wanago.io_](https://wanago.io/2018/03/12/defining-the-undefined-a-try-catch-trick/)
+14. [Demystifying generators. Implementing async/await _by wanago.io_](https://wanago.io/2018/04/23/demystifying-generators-implementing-async-await/)
+15. [Diving into functions. Passing by reference is a lie! _by wanago.io_](https://wanago.io/2018/05/28/diving-into-functions-passing-by-reference-is-a-lie/)
+16. [[1] + [2] – [3] === 9!? Looking into assembly code of coercion _by wanago.io_](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
 
 ## JavaScript Testing
 1. **JavaScript testing tutorial** _by wanago.io_
@@ -44,6 +59,12 @@
   * [Part 6. Increasing development experience](https://wanago.io/2018/08/06/webpack-4-course-part-six-increasing-development-experience/)
   * [Part 7. Decreasing the bundle size with tree shaking](https://wanago.io/2018/08/13/webpack-4-course-part-seven-decreasing-the-bundle-size-with-tree-shaking/)
   * [Part 8. Dynamic imports with prefetch and preload](https://wanago.io/2018/08/20/webpack-4-course-part-eight-dynamic-imports-with-prefetch-and-preload/)
+
+## Regex
+1. **Regex course** _by wanago.io_
+  * [Part 1. Basic concepts](https://wanago.io/2018/04/30/regex-course-part-one-basic-concepts/)
+  * [Part 2. Writing more elegant and precise patterns](https://wanago.io/2018/05/07/regex-course-part-two-writing-more-elegant-and-precise-patterns/)
+  * [Part 3. Grouping and using ES6 features](https://wanago.io/2018/05/14/regex-course-part-three-grouping-and-using-es6-features/)
 
 ## CSS
 ### Flexbox
