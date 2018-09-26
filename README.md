@@ -35,7 +35,15 @@
 3. [Building a progressive web app (PWA): No React, no Angular, no Vue](https://blog.logrocket.com/building-a-progressive-web-app-pwa-no-react-no-angular-no-vue-aefdded3b5e)
 
 ## Webpack
-1. [Webpack 4 course](https://wanago.io/2018/07/16/webpack-4-course-part-one-entry-output-and-es6-modules/)
+1. **Webpack 4 course**  _by wanago.io_
+  * [Part 1. Entry, output and ES6 modules](https://wanago.io/2018/07/16/webpack-4-course-part-one-entry-output-and-es6-modules/)
+  * [Part 2. Using loaders to handle scss, image files and transpile JS](https://wanago.io/2018/07/16/webpack-4-course-part-two-webpack-4-course-part-two-loaders/)
+  * [Part 3. Working with plugins](https://wanago.io/2018/07/23/webpack-4-course-part-three-working-with-plugins/)
+  * [Part 4. Code splitting with SplitChunksPlugin](https://wanago.io/2018/06/04/code-splitting-with-splitchunksplugin-in-webpack-4/)
+  * [Part 5. Built-in optimization for production](https://wanago.io/2018/07/30/webpack-4-course-part-five-built-in-optimization-for-production/)
+  * [Part 6. Increasing development experience](https://wanago.io/2018/08/06/webpack-4-course-part-six-increasing-development-experience/)
+  * [Part 7. Decreasing the bundle size with tree shaking](https://wanago.io/2018/08/13/webpack-4-course-part-seven-decreasing-the-bundle-size-with-tree-shaking/)
+  * [Part 8. Dynamic imports with prefetch and preload](https://wanago.io/2018/08/20/webpack-4-course-part-eight-dynamic-imports-with-prefetch-and-preload/)
 
 ## CSS
 ### Flexbox
