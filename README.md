@@ -52,6 +52,7 @@
   * [Part 2. Introducing Enzyme and testing React components](https://wanago.io/2018/09/03/javascript-testing-tutorial-part-two-introducing-enzyme-and-testing-react-components/)
   * [Part 3. Testing props, the mount function and snapshot tests](https://wanago.io/2018/09/10/javascript-testing-tutorial-part-three-testing-props-the-mount-function-and-snapshot-tests/)
   * [Part 4. Mocking API calls and simulating React components interactions](https://wanago.io/2018/09/17/javascript-testing-tutorial-part-four-mocking-api-calls-and-simulating-react-components-interactions/)
+2. [Modern functional concepts and JavaScript by Maks Klymyshyn](https://www.youtube.com/watch?v=aCp2j9mT_00)
 
 ## React
 
