@@ -81,6 +81,7 @@
   * [Part 6. Increasing development experience](https://wanago.io/2018/08/06/webpack-4-course-part-six-increasing-development-experience/)
   * [Part 7. Decreasing the bundle size with tree shaking](https://wanago.io/2018/08/13/webpack-4-course-part-seven-decreasing-the-bundle-size-with-tree-shaking/)
   * [Part 8. Dynamic imports with prefetch and preload](https://wanago.io/2018/08/20/webpack-4-course-part-eight-dynamic-imports-with-prefetch-and-preload/)
+2. [How to combine Webpack 4 and Babel 7 to create a fantastic React app](https://medium.freecodecamp.org/how-to-combine-webpack-4-and-babel-7-to-create-a-fantastic-react-app-845797e036ff)
 
 ## Regex
 1. **Regex course** _by wanago.io_
