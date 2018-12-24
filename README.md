@@ -3,6 +3,7 @@
 ## Software design patterns
 1. [Software design patterns implemented in EcmaScript 6](http://loredanacirstea.github.io/es6-design-patterns/)
 2. [Design Patterns by RefactoringGuru](https://refactoring.guru/design-patterns)
+3. [Easy patterns by Ruslan Malogulko](https://itnext.io/easy-patterns-simple-factory-b946a086fd7e)
 
 ## Software design
 1. [S.O.L.I.D-ый JavaScript by Alexey Ohrimenko](https://www.youtube.com/watch?v=wi3wPzReKZQ)
