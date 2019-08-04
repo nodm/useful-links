@@ -31,7 +31,7 @@
 14. [Demystifying generators. Implementing async/await _by wanago.io_](https://wanago.io/2018/04/23/demystifying-generators-implementing-async-await/)
 15. [Diving into functions. Passing by reference is a lie! _by wanago.io_](https://wanago.io/2018/05/28/diving-into-functions-passing-by-reference-is-a-lie/)
 16. [[1] + [2] – [3] === 9!? Looking into assembly code of coercion _by wanago.io_](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
-17. **How JavaScript works** by _Alexander Zlatkov_
+17. **How JavaScript works** by _Alexander Zlatkov_ ([in russian](https://habr.com/ru/company/ruvds/blog/419831/))
   * [An overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
   * [Inside Google’s V8 engine + 5 tips on how to write optimized code](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
   * [Memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
@@ -49,6 +49,8 @@
   *  [The internals of classes and inheritance + transpiling in Babel and TypeScript](https://blog.sessionstack.com/how-javascript-works-the-internals-of-classes-and-inheritance-transpiling-in-babel-and-113612cdc220)
   *  [Storage engines + how to choose the proper storage API](https://blog.sessionstack.com/how-javascript-works-storage-engines-how-to-choose-the-proper-storage-api-da50879ef576)
   *  [The internals of Shadow DOM + how to build self-contained components](https://blog.sessionstack.com/how-javascript-works-the-internals-of-shadow-dom-how-to-build-self-contained-components-244331c4de6e)
+  *  [WebRTC and the mechanics of peer to peer networking](https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab)
+  *  [Under the hood of custom elements + Best practices on building reusable components](https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-custom-elements-best-practices-on-building-reusable-e118e888de0c)
 
 ## JavaScript Testing
 1. **JavaScript testing tutorial** _by wanago.io_
