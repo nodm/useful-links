@@ -4,7 +4,8 @@
 ## Software design patterns
 1. [Software design patterns implemented in EcmaScript 6](http://loredanacirstea.github.io/es6-design-patterns/)
 2. [Design Patterns by RefactoringGuru](https://refactoring.guru/design-patterns)
-3. [Easy patterns by Ruslan Malogulko](https://itnext.io/easy-patterns-simple-factory-b946a086fd7e)
+3. [Design Patterns, Antipatterns, Refactoring & UML by Source Making](https://sourcemaking.com/)
+4. [Easy patterns by Ruslan Malogulko](https://itnext.io/easy-patterns-simple-factory-b946a086fd7e)
 
 ## Software design
 
@@ -106,3 +107,6 @@
 ## CSS
 ### Flexbox
 1. [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
+
+## API
+### [News api](https://newsapi.org/)
