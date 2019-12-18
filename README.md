@@ -108,5 +108,9 @@
 ### Flexbox
 1. [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 
-## API
-### [News api](https://newsapi.org/)
+## Other
+### API
+1.[News api](https://newsapi.org/)
+
+### Interesting
+1. [Шесть задачек для Front-End разработчика (Форма кредитной карты)](https://habr.com/ru/company/edison/blog/473894/)
