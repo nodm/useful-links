@@ -77,6 +77,7 @@
 
 ## Angular
 1. [Total Guide To Angular 6+ Dependency Injection — providedIn vs providers](https://medium.com/@tomastrajan/total-guide-to-angular-6-dependency-injection-providedin-vs-providers-85b7a347b59f)
+2. [Angular Dependency Injection Infographic](https://christiankohler.net/angular-dependency-injection-infographic)
 
 ## React
 
