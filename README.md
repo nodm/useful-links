@@ -75,6 +75,9 @@
 ## RxJS
 1. [Learn to combine RxJs sequences with super intuitive interactive diagrams by Maxim Koretskyi](https://indepth.dev/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams/)
 
+## Angular
+1. [Total Guide To Angular 6+ Dependency Injection — providedIn vs providers](https://medium.com/@tomastrajan/total-guide-to-angular-6-dependency-injection-providedin-vs-providers-85b7a347b59f)
+
 ## React
 
 ## GraphQL, Appolo
