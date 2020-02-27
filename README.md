@@ -78,6 +78,11 @@
 ## Angular
 1. [Total Guide To Angular 6+ Dependency Injection — providedIn vs providers](https://medium.com/@tomastrajan/total-guide-to-angular-6-dependency-injection-providedin-vs-providers-85b7a347b59f)
 2. [Angular Dependency Injection Infographic](https://christiankohler.net/angular-dependency-injection-infographic)
+3. **Zones**
+  * [Understanding Zones](https://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html)
+  * [Zones in Angular](https://blog.thoughtram.io/angular/2016/02/01/zones-in-angular-2.html)
+  * [Using Zones in Angular for better performance](https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html)
+  
 
 ## React
 
