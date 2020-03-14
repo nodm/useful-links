@@ -7,6 +7,7 @@
 3. [Design Patterns, Antipatterns, Refactoring & UML by Source Making](https://sourcemaking.com/)
 4. [Easy patterns by Ruslan Malogulko](https://itnext.io/easy-patterns-simple-factory-b946a086fd7e)
 5. [Video series on Design Patterns for Object Oriented Languages by Christopher Okhravi](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+6. [Cloud Design Patterns by Microsoft](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 ## Software design
 
