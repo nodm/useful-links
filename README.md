@@ -22,6 +22,7 @@
 7. [S.O.L.I.D-ый JavaScript by Alexey Ohrimenko](https://www.youtube.com/watch?v=wi3wPzReKZQ)
 
 ## JavaScript Engines
+1. [Як працює Event Loop в NodeJS: внутрішня будова, фази та приклади by Oleksandr Vetoshkin(https://dou.ua/forums/topic/31698/)
 
 ## JavaScript Core
 ### Books
