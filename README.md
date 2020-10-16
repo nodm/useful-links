@@ -22,7 +22,6 @@
 7. [S.O.L.I.D-ый JavaScript by Alexey Ohrimenko](https://www.youtube.com/watch?v=wi3wPzReKZQ)
 
 ## JavaScript Engines
-1. [Як працює Event Loop в NodeJS: внутрішня будова, фази та приклади by Oleksandr Vetoshkin(https://dou.ua/forums/topic/31698/)
 
 ## JavaScript Core
 ### Books
@@ -95,6 +94,7 @@
 
 ## Node.js
 1. [Threads in Node 10.5.0: a practical intro by Fernando Doglio](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953)
+2. [Як працює Event Loop в NodeJS: внутрішня будова, фази та приклади by Oleksandr Vetoshkin](https://dou.ua/forums/topic/31698/)
 
 ## Progressive Web Application (PWA)
 1. [Your First Progressive Web App by *Google*](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
