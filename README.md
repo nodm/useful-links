@@ -120,6 +120,9 @@
   * [Part 2. Writing more elegant and precise patterns](https://wanago.io/2018/05/07/regex-course-part-two-writing-more-elegant-and-precise-patterns/)
   * [Part 3. Grouping and using ES6 features](https://wanago.io/2018/05/14/regex-course-part-three-grouping-and-using-es6-features/)
 
+## HTML
+1. [Исчерпывающий путеводитель по тегу iframe](https://habr.com/ru/post/488516/)
+
 ## CSS
 ### Flexbox
 1. [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
