@@ -127,6 +127,10 @@
 ### Flexbox
 1. [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 
+## Design systems and approaches
+1. [Atomic Design by Bread Frost](https://bradfrost.com/blog/post/atomic-web-design/)
+2. [Atomic Design is messy, here's what I prefer by Dennis Reimann - Foundation, Elements, Modules and the Prototype](https://dennisreimann.de/articles/atomic-design-is-messy.html)
+
 ## Other
 ### API
 1.[News api](https://newsapi.org/)
