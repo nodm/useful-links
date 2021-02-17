@@ -22,6 +22,7 @@
 7. [S.O.L.I.D-ый JavaScript by Alexey Ohrimenko](https://www.youtube.com/watch?v=wi3wPzReKZQ)
 
 ## JavaScript Engines
+1. [Understanding Repaint and Reflow in JavaScript](https://medium.com/swlh/what-the-heck-is-repaint-and-reflow-in-the-browser-b2d0fb980c08)
 
 ## JavaScript Core
 ### Books
