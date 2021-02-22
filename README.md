@@ -88,6 +88,7 @@
   
 
 ## React
+1. [Should You Really Use useMemo in React? Let's Find Out.](https://canimerge.com/should-you-really-use-usememo-in-react-lets-find-out/)
 
 ## GraphQL, Appolo
 1. [GraphQL: Everything You Need to Know, Weblab Technology](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
