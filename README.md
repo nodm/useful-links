@@ -75,6 +75,9 @@
   * [Part 4. Mocking API calls and simulating React components interactions](https://wanago.io/2018/09/17/javascript-testing-tutorial-part-four-mocking-api-calls-and-simulating-react-components-interactions/)
 2. [Modern functional concepts and JavaScript by Maks Klymyshyn](https://www.youtube.com/watch?v=aCp2j9mT_00)
 
+## Web Components
+1. [On Styling Web Components](https://blog.webf.zone/on-styling-web-components-b74b8c70c492)
+
 ## RxJS
 1. [Learn to combine RxJs sequences with super intuitive interactive diagrams by Maxim Koretskyi](https://indepth.dev/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams/)
 
