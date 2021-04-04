@@ -67,6 +67,10 @@
   * [WebRTC and the mechanics of peer to peer networking](https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab)
   * [Under the hood of custom elements + Best practices on building reusable components](https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-custom-elements-best-practices-on-building-reusable-e118e888de0c)
 
+## JavaScript Libraries
+### Ramda
+1. [Thinking in Ramda series by RANDY COULMAN](https://randycoulman.com/blog/categories/thinking-in-ramda/)
+
 ## JavaScript Testing
 1. **JavaScript testing tutorial** _by wanago.io_
   * [Part 1. Explaining types of tests. Basics of unit testing with Jest](https://wanago.io/2018/08/27/testing-javascript-tutorial-types-of-tests-of-unit-testing-with-jest/)
