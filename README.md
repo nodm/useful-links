@@ -82,6 +82,7 @@
 
 ## Web Components
 1. [On Styling Web Components](https://blog.webf.zone/on-styling-web-components-b74b8c70c492)
+2. [Web Components and SEO](https://medium.com/patternfly-elements/web-components-and-seo-58227413e072)
 
 ## RxJS
 1. [Learn to combine RxJs sequences with super intuitive interactive diagrams by Maxim Koretskyi](https://indepth.dev/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams/)
