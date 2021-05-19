@@ -25,7 +25,7 @@
 1. [Rendering: repaint, reflow/relayout, restyle by Stoyan Stefanov](https://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
 2. [Understanding Repaint and Reflow in JavaScript](https://medium.com/swlh/what-the-heck-is-repaint-and-reflow-in-the-browser-b2d0fb980c08)
 
-## JavaScript Core
+## JavaScript
 ### Books
 1. [**Speaking JavaScript**  by Dr. Axel Rauschmayer](http://speakingjs.com/es5/index.html)
 2. [**Exploring ES6** by Dr. Axel Rauschmayer](http://exploringjs.com/es6.html)
@@ -67,6 +67,8 @@
   * [WebRTC and the mechanics of peer to peer networking](https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab)
   * [Under the hood of custom elements + Best practices on building reusable components](https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-custom-elements-best-practices-on-building-reusable-e118e888de0c)
 18. [Understanding (all) JavaScript module formats and tools](https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools#webpack-module-bundle-from-cjs-amd-es-modules)
+19. [DOM Events Visualized](https://domevents.dev/)
+20. [A complete guide on shadow DOM and event propagation](https://pm.dartus.fr/blog/a-complete-guide-on-shadow-dom-and-event-propagation/)
 
 ## JavaScript Libraries
 ### Ramda
