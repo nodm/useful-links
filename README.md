@@ -139,6 +139,7 @@
 
 ## HTML
 1. [Исчерпывающий путеводитель по тегу iframe](https://habr.com/ru/post/488516/)
+2. [HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
 
 ## CSS
 ### Flexbox
