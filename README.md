@@ -157,3 +157,5 @@
 ### Interesting
 1. [Шесть задачек для Front-End разработчика (Форма кредитной карты)](https://habr.com/ru/company/edison/blog/473894/)
 2. [I made 100 CSS loaders for your next project](https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje)
+3. [The Ultimate Cheat sheet List For Web Developers](https://dev.to/insha/the-ultimate-cheat-sheet-list-for-web-developers-2i9i)
+4. [Journey of a web page 🛣️ - How browsers work](https://dev.to/gitpaulo/journey-of-a-web-page-how-browsers-work-10co#navigation)
