@@ -24,6 +24,7 @@
 ## JavaScript Engines
 1. [Rendering: repaint, reflow/relayout, restyle by Stoyan Stefanov](https://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
 2. [Understanding Repaint and Reflow in JavaScript](https://medium.com/swlh/what-the-heck-is-repaint-and-reflow-in-the-browser-b2d0fb980c08)
+3. [Journey of a web page 🛣️ - How browsers work](https://dev.to/gitpaulo/journey-of-a-web-page-how-browsers-work-10co#navigation)
 
 ## JavaScript
 ### Books
@@ -69,6 +70,8 @@
 18. [Understanding (all) JavaScript module formats and tools](https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools#webpack-module-bundle-from-cjs-amd-es-modules)
 19. [DOM Events Visualized](https://domevents.dev/)
 20. [A complete guide on shadow DOM and event propagation](https://pm.dartus.fr/blog/a-complete-guide-on-shadow-dom-and-event-propagation/)
+### Tips and Tricks
+1. [4 Ways to Communicate Across Browser Tabs in Realtime](https://blog.bitsrc.io/4-ways-to-communicate-across-browser-tabs-in-realtime-e4f5f6cbedca)
 
 ## JavaScript Libraries
 ### Ramda
@@ -84,6 +87,8 @@
 
 ## MFE
 1. [Motivations, benefits, and issues for adopting Micro-Frontends: A Multivocal Literature Review](https://www.sciencedirect.com/science/article/pii/S0950584921000549)
+2. [Website of 'Micro Frontends in Action' book's author Michael Geers](https://micro-frontends.org)
+3. [Micro frontends: Hosting and independent deployments in a mono repo with GitHub Actions, AWS S3 and CloudFront](https://engineering.telia.no/blog/micro-frontends-hosting-and-deployment)
 
 ## Web Components
 1. [On Styling Web Components](https://blog.webf.zone/on-styling-web-components-b74b8c70c492)
@@ -158,4 +163,5 @@
 1. [Шесть задачек для Front-End разработчика (Форма кредитной карты)](https://habr.com/ru/company/edison/blog/473894/)
 2. [I made 100 CSS loaders for your next project](https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje)
 3. [The Ultimate Cheat sheet List For Web Developers](https://dev.to/insha/the-ultimate-cheat-sheet-list-for-web-developers-2i9i)
-4. [Journey of a web page 🛣️ - How browsers work](https://dev.to/gitpaulo/journey-of-a-web-page-how-browsers-work-10co#navigation)
+4. [Excalidraw - Funny collaborative whiteboard](https://excalidraw.com/)
+5. [Robert Nystrom. Crafting Interpreters contains everything you need to implement a full-featured, efficient scripting language.](https://craftinginterpreters.com)
