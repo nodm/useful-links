@@ -165,3 +165,4 @@
 3. [The Ultimate Cheat sheet List For Web Developers](https://dev.to/insha/the-ultimate-cheat-sheet-list-for-web-developers-2i9i)
 4. [Excalidraw - Funny collaborative whiteboard](https://excalidraw.com/)
 5. [Robert Nystrom. Crafting Interpreters contains everything you need to implement a full-featured, efficient scripting language.](https://craftinginterpreters.com)
+6. [Детально о SSL/TLS. Как работает его криптографическая система](https://dou.ua/forums/topic/34353/?from=comment-digest_topic_tech&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments)
