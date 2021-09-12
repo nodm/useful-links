@@ -167,3 +167,4 @@
 5. [Robert Nystrom. Crafting Interpreters contains everything you need to implement a full-featured, efficient scripting language.](https://craftinginterpreters.com)
 6. [Детально о SSL/TLS. Как работает его криптографическая система](https://dou.ua/forums/topic/34353/?from=comment-digest_topic_tech&utm_source=transactional&utm_medium=email&utm_campaign=digest-comments)
 7. [WEB Security](https://portswigger.net/web-security)
+8. [The Complete Guide to OAuth 2.0 and OpenID Connect Protocols](https://betterprogramming.pub/the-complete-guide-to-oauth-2-0-and-openid-connect-protocols-35ebc1cbc11a)
