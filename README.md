@@ -10,6 +10,7 @@
 6. [Cloud Design Patterns by Microsoft](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 ## Software design
+1. [Coupling and Cohesion](https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/)
 
 
 ## S O L I D  Design
