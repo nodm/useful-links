@@ -52,8 +52,20 @@
 
 ## JavaScript
 ### Books
-1. [**Speaking JavaScript**  by Dr. Axel Rauschmayer](http://speakingjs.com/es5/index.html)
-2. [**Exploring ES6** by Dr. Axel Rauschmayer](http://exploringjs.com/es6.html)
+1. [JavaScript for impatient programmers (ES1–ES2021) by Dr. Axel Rauschmayer](https://exploringjs.com/impatient-js/index.html)
+2. [Speaking JavaScript by Dr. Axel Rauschmayer](http://speakingjs.com/)
+3. [Exploring ES6 by Dr. Axel Rauschmayer](https://exploringjs.com/es6.html)
+4. [Exploring ES2016 and ES2017 by Dr. Axel Rauschmayer](https://exploringjs.com/es2016-es2017.html)
+5. [Exploring ES2018 and ES2019 by Dr. Axel Rauschmayer](https://exploringjs.com/es2018-es2019/index.html)
+6. [Deep JavaScript: Theory and techniques (ES1–ES2021) by Dr. Axel Rauschmayer](https://exploringjs.com/deep-js/index.html)
+7. [Tackling TypeScript: Upgrading from JavaScript by Dr. Axel Rauschmayer](https://exploringjs.com/tackling-ts/index.html)
+8. [You Don't Know JS: Up & Going - 1st Edition](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20&%20going/README.md)
+9. [You Don't Know JS: Scope & Closures - 1st Edition](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/scope%20&%20closures/README.md)
+10. [You Don't Know JS: this & Object Prototypes - 1st Edition](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/this%20&%20object%20prototypes/README.md)
+11. [You Don't Know JS: Types & Grammar - 1st Edition](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/types%20&%20grammar/README.md)
+12. [You Don't Know JS: Async & Performance - 1st Edition](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/async%20&%20performance/README.md)
+13. [You Don't Know JS: ES6 & Beyond - 1st Edition](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/es6%20&%20beyond/README.md)
+
 ### Articles
 1. [Prototype. The big bro behind ES6 class _by wanago.io_](https://wanago.io/2018/03/19/prototype-the-big-bro-behind-es6-class/)
 2. [Understanding events. Bubbling and capturing _by wanago.io_](https://wanago.io/2018/07/02/understanding-events-bubbling-and-capturing/)
