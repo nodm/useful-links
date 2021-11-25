@@ -122,6 +122,8 @@
   * [Zones in Angular](https://blog.thoughtram.io/angular/2016/02/01/zones-in-angular-2.html)
   * [Using Zones in Angular for better performance](https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html)
   
+## NestJS
+1. [How to parse the raw body of a request in a nest js controller](https://www.darraghoriordan.com/2021/06/20/parse-request-raw-body-nest-js-controller/)
 
 ## React
 1. [Should You Really Use useMemo in React? Let's Find Out.](https://canimerge.com/should-you-really-use-usememo-in-react-lets-find-out/)
