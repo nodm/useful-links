@@ -128,6 +128,7 @@
 ## React
 1. [Should You Really Use useMemo in React? Let's Find Out.](https://canimerge.com/should-you-really-use-usememo-in-react-lets-find-out/)
 2. [Building server-side rendering for React in AWS Lambda](https://aws.amazon.com/blogs/compute/building-server-side-rendering-for-react-in-aws-lambda/)
+3. [What's new in React 18?](https://yagmurcetintas.com/journal/whats-new-in-react-18)
 
 ## GraphQL, Appolo
 1. [GraphQL: Everything You Need to Know, Weblab Technology](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
