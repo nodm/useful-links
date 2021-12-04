@@ -21,6 +21,7 @@
 5. **D** 
 6. [SOLID по-русски](https://ota-solid.now.sh/)
 7. [S.O.L.I.D-ый JavaScript by Alexey Ohrimenko](https://www.youtube.com/watch?v=wi3wPzReKZQ)
+8. [Nir Kaufman | Going SOLID with DI in Angular](https://www.youtube.com/watch?v=CVH0v3EmCfs)
 
 ## Algorithm
 1. [Big O CheatSheet](https://www.bigocheatsheet.com/)
