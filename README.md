@@ -178,6 +178,8 @@
 2. [Atomic Design is messy, here's what I prefer by Dennis Reimann - Foundation, Elements, Modules and the Prototype](https://dennisreimann.de/articles/atomic-design-is-messy.html)
 
 ## Other
+### WEB
+1. [How to win at CORS](https://jakearchibald.com/2021/cors/)
 ### API
 1.[News api](https://newsapi.org/)
 
