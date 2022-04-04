@@ -185,7 +185,8 @@
 ### WEB
 1. [How to win at CORS](https://jakearchibald.com/2021/cors/)
 ### API
-1.[News api](https://newsapi.org/)
+1. [News api](https://newsapi.org/)
+2. [The Ergast Developer API is an experimental web service which provides a historical record of motor racing data for non-commercial purposes.](https://ergast.com/mrd/)
 
 ### Interesting
 1. [Шесть задачек для Front-End разработчика (Форма кредитной карты)](https://habr.com/ru/company/edison/blog/473894/)
