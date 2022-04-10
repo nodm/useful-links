@@ -177,6 +177,7 @@
 
 ### Flexbox
 1. [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
+2. [A list of flexbox issues and cross-browser workarounds for them](https://github.com/philipwalton/flexbugs)
 
 ## Design systems and approaches
 1. [Atomic Design by Bread Frost](https://bradfrost.com/blog/post/atomic-web-design/)
