@@ -146,6 +146,7 @@
 2. [How you can make a progressive web app in an hour](https://medium.freecodecamp.org/how-you-can-make-a-progressive-web-app-in-an-hour-7e36d560610e)
 3. [Building a progressive web app (PWA): No React, no Angular, no Vue](https://blog.logrocket.com/building-a-progressive-web-app-pwa-no-react-no-angular-no-vue-aefdded3b5e)
 4. [Progressive Web Apps on iOS are here](https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7)
+5. [30 days of PWA by Aaron Gustafson](https://www.aaron-gustafson.com/notebook/30-days-of-pwa/)
 
 ## Webpack
 1. **Webpack 4 course**  _by wanago.io_
@@ -198,3 +199,4 @@
 7. [WEB Security](https://portswigger.net/web-security)
 8. [The Complete Guide to OAuth 2.0 and OpenID Connect Protocols](https://betterprogramming.pub/the-complete-guide-to-oauth-2-0-and-openid-connect-protocols-35ebc1cbc11a)
 9. [Currency Calculations in JavaScript](https://www.honeybadger.io/blog/currency-money-calculations-in-javascript/)
+10. [Web application synchronization between different tabs](https://github.com/jcubic/sysend.js)
