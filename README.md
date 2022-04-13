@@ -201,3 +201,4 @@
 8. [The Complete Guide to OAuth 2.0 and OpenID Connect Protocols](https://betterprogramming.pub/the-complete-guide-to-oauth-2-0-and-openid-connect-protocols-35ebc1cbc11a)
 9. [Currency Calculations in JavaScript](https://www.honeybadger.io/blog/currency-money-calculations-in-javascript/)
 10. [Web application synchronization between different tabs](https://github.com/jcubic/sysend.js)
+11. [Wired Elements](https://github.com/rough-stuff/wired-elements)
