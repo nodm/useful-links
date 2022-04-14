@@ -85,8 +85,9 @@
 15. [Diving into functions. Passing by reference is a lie! _by wanago.io_](https://wanago.io/2018/05/28/diving-into-functions-passing-by-reference-is-a-lie/)
 16. [[1] + [2] – [3] === 9!? Looking into assembly code of coercion _by wanago.io_](https://wanago.io/2018/04/02/1-2-3-9-looking-into-assembly-code-of-coercion/)
 17. [Understanding (all) JavaScript module formats and tools](https://weblogs.asp.net/dixin/understanding-all-javascript-module-formats-and-tools#webpack-module-bundle-from-cjs-amd-es-modules)
-18. [DOM Events Visualized](https://domevents.dev/)
-19. [A complete guide on shadow DOM and event propagation](https://pm.dartus.fr/blog/a-complete-guide-on-shadow-dom-and-event-propagation/)
+18. [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+19. [DOM Events Visualized](https://domevents.dev/)
+20. [A complete guide on shadow DOM and event propagation](https://pm.dartus.fr/blog/a-complete-guide-on-shadow-dom-and-event-propagation/)
 ### Tips and Tricks
 1. [4 Ways to Communicate Across Browser Tabs in Realtime](https://blog.bitsrc.io/4-ways-to-communicate-across-browser-tabs-in-realtime-e4f5f6cbedca)
 
