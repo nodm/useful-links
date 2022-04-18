@@ -204,3 +204,4 @@
 9. [Currency Calculations in JavaScript](https://www.honeybadger.io/blog/currency-money-calculations-in-javascript/)
 10. [Web application synchronization between different tabs](https://github.com/jcubic/sysend.js)
 11. [Wired Elements](https://github.com/rough-stuff/wired-elements)
+12. [Code Reviews 101 - The Basics](https://www.semasoftware.com/blog/code-reviews-101-the-basics)
