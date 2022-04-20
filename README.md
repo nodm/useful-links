@@ -206,3 +206,4 @@
 11. [Wired Elements](https://github.com/rough-stuff/wired-elements)
 12. [Code Reviews 101 - The Basics](https://www.semasoftware.com/blog/code-reviews-101-the-basics)
 13. [Fantasy Land Specification(aka "Algebraic JavaScript Specification")](https://github.com/fantasyland/fantasy-land)
+14. [A series of posts written to explore and explain the Fantasy Land JavaScript specification](http://www.tomharding.me/fantasy-land/)
