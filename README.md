@@ -213,3 +213,5 @@
 12. [Code Reviews 101 - The Basics](https://www.semasoftware.com/blog/code-reviews-101-the-basics)
 13. [Fantasy Land Specification(aka "Algebraic JavaScript Specification")](https://github.com/fantasyland/fantasy-land)
 14. [A series of posts written to explore and explain the Fantasy Land JavaScript specification](http://www.tomharding.me/fantasy-land/)
+15. [DDD by Examples](https://github.com/ddd-by-examples)
+16. [Monio's IO/IOx is the most powerful IO monad implementation in JS, possibly in any language!](https://github.com/getify/monio)
