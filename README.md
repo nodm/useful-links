@@ -134,6 +134,11 @@
 4. [How To Improve Your Developer Experience (DX) With React, Hooks And Redux-Toolkit](https://orizens.com/blog/how-to-improve-your-developer-experience-(dx)-with-react-hooks-and-redux-toolkit-rtk/)
 5. [Not All Components Are Created Equal](https://formidable.com/blog/2021/react-components/)
 
+## React Libraries
+1. [React-WinBox - A React controlled component for WinBox.js](https://github.com/RickoNoNo3/react-winbox)
+2. [React Page Visibility - Declarative, nested, stateful, isomorphic page visibility for React](https://github.com/pgilad/react-page-visibility)
+3. [REact Leaflet - React components for Leaflet maps](https://react-leaflet.js.org/)
+
 ## GraphQL, Appolo
 1. [GraphQL: Everything You Need to Know, Weblab Technology](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
 2. [GraphQL Server Tutorial with Apollo Server and Express](https://www.robinwieruch.de/graphql-apollo-server-tutorial/)
