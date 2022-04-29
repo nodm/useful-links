@@ -166,6 +166,8 @@
   * [Part 7. Decreasing the bundle size with tree shaking](https://wanago.io/2018/08/13/webpack-4-course-part-seven-decreasing-the-bundle-size-with-tree-shaking/)
   * [Part 8. Dynamic imports with prefetch and preload](https://wanago.io/2018/08/20/webpack-4-course-part-eight-dynamic-imports-with-prefetch-and-preload/)
 2. [How to combine Webpack 4 and Babel 7 to create a fantastic React app](https://medium.freecodecamp.org/how-to-combine-webpack-4-and-babel-7-to-create-a-fantastic-react-app-845797e036ff)
+3. [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
+4. [HTML Critical Webpack Plugin](https://github.com/anthonygore/html-critical-webpack-plugin)
 
 ## Regex
 1. **Regex course** _by wanago.io_
