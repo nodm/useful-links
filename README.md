@@ -184,6 +184,7 @@
 2. [7 PostCSS Plugins to Ease You into PostCSS](https://www.sitepoint.com/7-postcss-plugins-to-ease-you-into-postcss/)
 3. [Enabling Upcoming CSS Features with PostCSS](https://www.sitepoint.com/enabling-upcoming-css-features-with-postcss/)
 4. [CSS Cheatsheets](https://github.com/AakashRao-dev/CSS-Cheatsheets)
+5. [Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS](https://dzone.com/articles/critical-css-and-webpack-automatically-minimize-re)
 
 ### Flexbox
 1. [11 things I learned reading the flexbox spec](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
