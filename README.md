@@ -197,6 +197,7 @@
 ## Other
 ### WEB
 1. [How to win at CORS](https://jakearchibald.com/2021/cors/)
+2. [A Question of Timing - timing with curl and Chrome](https://blog.cloudflare.com/a-question-of-timing/)
 ### API
 1. [News api](https://newsapi.org/)
 2. [The Ergast Developer API is an experimental web service which provides a historical record of motor racing data for non-commercial purposes.](https://ergast.com/mrd/)
