@@ -179,6 +179,7 @@
 ## HTML
 1. [Исчерпывающий путеводитель по тегу iframe](https://habr.com/ru/post/488516/)
 2. [HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
+3. [Скрытые возможности элемента <input>](https://habr.com/ru/companies/ruvds/articles/785690/)
 
 ## CSS
 1. [How to Use PostCSS as a Configurable Alternative to Sass](https://www.sitepoint.com/postcss-sass-configurable-alternative/)
