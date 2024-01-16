@@ -129,7 +129,8 @@
 1. [How to parse the raw body of a request in a nest js controller](https://www.darraghoriordan.com/2021/06/20/parse-request-raw-body-nest-js-controller/)
 
 ## React
-1. [Should You Really Use useMemo in React? Let's Find Out.](https://canimerge.com/should-you-really-use-usememo-in-react-lets-find-out/)
+0. [Developer Way: Blog about React and FE ("React reconciliation: how it works and why should we care", "Fantastic closures and how to find them in React" etc.)](https://www.developerway.com/posts/use-transition)
+1. [Should You Realy Use useMemo in React? Let's Find Out.](https://canimerge.com/should-you-really-use-usememo-in-react-lets-find-out/)
 2. [Building server-side rendering for React in AWS Lambda](https://aws.amazon.com/blogs/compute/building-server-side-rendering-for-react-in-aws-lambda/)
 3. [What's new in React 18?](https://yagmurcetintas.com/journal/whats-new-in-react-18)
 4. [How To Improve Your Developer Experience (DX) With React, Hooks And Redux-Toolkit](https://orizens.com/blog/how-to-improve-your-developer-experience-(dx)-with-react-hooks-and-redux-toolkit-rtk/)
