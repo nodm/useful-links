@@ -136,6 +136,7 @@
 4. [How To Improve Your Developer Experience (DX) With React, Hooks And Redux-Toolkit](https://orizens.com/blog/how-to-improve-your-developer-experience-(dx)-with-react-hooks-and-redux-toolkit-rtk/)
 5. [Not All Components Are Created Equal](https://formidable.com/blog/2021/react-components/)
 6. [Accessible React Forms](https://www.carlrippon.com/accessible-react-forms/)
+7. [How Children Types Work In React 18 And TypeScript 4](https://www.arahansen.com/how-children-types-work-in-react-18-and-typescript-4/)
 
 ## React Libraries
 1. [React-WinBox - A React controlled component for WinBox.js](https://github.com/RickoNoNo3/react-winbox)
