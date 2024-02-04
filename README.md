@@ -6,7 +6,7 @@
 2. [Design Patterns by RefactoringGuru](https://refactoring.guru/design-patterns)
 3. [Design Patterns, Antipatterns, Refactoring & UML by Source Making](https://sourcemaking.com/)
 4. [Easy patterns by Ruslan Malogulko](https://itnext.io/easy-patterns-simple-factory-b946a086fd7e)
-5. [Video series on Design Patterns for Object Oriented Languages by Christopher Okhravi](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+5. [Video series on Design Patterns for Object-Oriented Languages by Christopher Okhravi](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 6. [Cloud Design Patterns by Microsoft](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 ## Software design
@@ -51,6 +51,7 @@
   * [The internals of Shadow DOM + how to build self-contained components](https://blog.sessionstack.com/how-javascript-works-the-internals-of-shadow-dom-how-to-build-self-contained-components-244331c4de6e)
   * [WebRTC and the mechanics of peer to peer networking](https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab)
   * [Under the hood of custom elements + Best practices on building reusable components](https://blog.sessionstack.com/how-javascript-works-under-the-hood-of-custom-elements-best-practices-on-building-reusable-e118e888de0c)
+  * [Browser Event loop: micro and macro tasks, call stack, render queue: layout, paint, composite](https://blog.xnim.me/event-loop-and-render-queue)
 
 ## JavaScript
 ### Books
