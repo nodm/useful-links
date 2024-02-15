@@ -138,7 +138,8 @@
 5. [Not All Components Are Created Equal](https://formidable.com/blog/2021/react-components/)
 6. [Accessible React Forms](https://www.carlrippon.com/accessible-react-forms/)
 7. [How Children Types Work In React 18 And TypeScript 4](https://www.arahansen.com/how-children-types-work-in-react-18-and-typescript-4/)
-8. State management
+8. [The modern guide to React state patterns](https://blog.logrocket.com/modern-guide-react-state-patterns/)
+9. State management
    * [ReduxToolkit](https://redux-toolkit.js.org/)
    * [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
    * [Jotai](https://jotai.org/docs/introduction)
