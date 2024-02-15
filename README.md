@@ -8,6 +8,7 @@
 4. [Easy patterns by Ruslan Malogulko](https://itnext.io/easy-patterns-simple-factory-b946a086fd7e)
 5. [Video series on Design Patterns for Object-Oriented Languages by Christopher Okhravi](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 6. [Cloud Design Patterns by Microsoft](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
+7. [MVC vs. MVP vs. MVVM](https://vtsen.hashnode.dev/mvc-vs-mvp-vs-mvvm-design-patterns)
 
 ## Software design
 1. [Coupling and Cohesion](https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/)
