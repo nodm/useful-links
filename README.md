@@ -109,6 +109,7 @@
 1. [Motivations, benefits, and issues for adopting Micro-Frontends: A Multivocal Literature Review](https://www.sciencedirect.com/science/article/pii/S0950584921000549)
 2. [Website of 'Micro Frontends in Action' book's author Michael Geers](https://micro-frontends.org)
 3. [Micro frontends: Hosting and independent deployments in a mono repo with GitHub Actions, AWS S3 and CloudFront](https://engineering.telia.no/blog/micro-frontends-hosting-and-deployment)
+4. [Serverless micro-frontends | Serverless Office Hours](https://www.youtube.com/watch?v=Vm9jlRSlKVQ)
 
 ## Web Components
 1. [On Styling Web Components](https://blog.webf.zone/on-styling-web-components-b74b8c70c492)
@@ -234,3 +235,16 @@
 14. [A series of posts written to explore and explain the Fantasy Land JavaScript specification](http://www.tomharding.me/fantasy-land/)
 15. [DDD by Examples](https://github.com/ddd-by-examples)
 16. [Monio's IO/IOx is the most powerful IO monad implementation in JS, possibly in any language!](https://github.com/getify/monio)
+
+## AWS
+### SQS, SNS
+1. [AWS SNS vs SQS: Key differences and which one you should use](https://ably.com/topic/aws-sns-vs-sqs)
+
+### DynamoDB
+1. [Effective data sorting with Amazon DynamoDB](https://aws.amazon.com/blogs/database/effective-data-sorting-with-amazon-dynamodb/)
+
+### CloudFront
+1. [Improve Single-Page Application (SPA) Performance with a Same Domain policy using Amazon CloudFront](https://aws.amazon.com/pt/blogs/networking-and-content-delivery/improve-single-page-application-spa-performance-with-a-same-domain-policy-using-amazon-cloudfront/)
+
+### MFE
+1. [Server-side rendering micro-frontends – UI composer and service discovery](https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-ui-composer-and-service-discovery)
