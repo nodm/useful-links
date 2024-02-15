@@ -149,6 +149,7 @@
 1. [React-WinBox - A React controlled component for WinBox.js](https://github.com/RickoNoNo3/react-winbox)
 2. [React Page Visibility - Declarative, nested, stateful, isomorphic page visibility for React](https://github.com/pgilad/react-page-visibility)
 3. [React Leaflet - React components for Leaflet maps](https://react-leaflet.js.org/)
+4. [Rendering large lists with React Virtualized](https://blog.logrocket.com/rendering-large-lists-react-virtualized/)
 
 ## GraphQL, Appolo
 1. [GraphQL: Everything You Need to Know, Weblab Technology](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
