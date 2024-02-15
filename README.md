@@ -151,6 +151,9 @@
 3. [React Leaflet - React components for Leaflet maps](https://react-leaflet.js.org/)
 4. [Rendering large lists with React Virtualized](https://blog.logrocket.com/rendering-large-lists-react-virtualized/)
 
+## Next.js
+1. [How to use react-hook-form with Next.js Server Actions and Zod Input validation](https://nehalist.io/react-hook-form-with-nextjs-server-actions/)
+
 ## GraphQL, Appolo
 1. [GraphQL: Everything You Need to Know, Weblab Technology](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
 2. [GraphQL Server Tutorial with Apollo Server and Express](https://www.robinwieruch.de/graphql-apollo-server-tutorial/)
