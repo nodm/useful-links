@@ -145,9 +145,10 @@
    * [Zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)
    * [Jotai](https://jotai.org/docs/introduction)
    * [Recoil](https://recoiljs.org/)
+10. [useEffect sometimes fires before paint](https://thoughtspile.github.io/2021/11/15/unintentional-layout-effect/)
 
 ## React Libraries
-1. [React-WinBox - A React controlled component for WinBox.js](https://github.com/RickoNoNo3/react-winbox)
+1. [React-WinBox - A React-controlled component for WinBox.js](https://github.com/RickoNoNo3/react-winbox)
 2. [React Page Visibility - Declarative, nested, stateful, isomorphic page visibility for React](https://github.com/pgilad/react-page-visibility)
 3. [React Leaflet - React components for Leaflet maps](https://react-leaflet.js.org/)
 4. [Rendering large lists with React Virtualized](https://blog.logrocket.com/rendering-large-lists-react-virtualized/)
