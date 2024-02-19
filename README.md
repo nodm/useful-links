@@ -165,6 +165,8 @@
 ## Node.js
 1. [Threads in Node 10.5.0: a practical intro by Fernando Doglio](https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953)
 2. [Як працює Event Loop в NodeJS: внутрішня будова, фази та приклади by Oleksandr Vetoshkin](https://dou.ua/forums/topic/31698/)
+3. [Eventloop in NodeJS: setTimeout, setImmediate vs process.nextTick](https://medium.com/dkatalis/eventloop-in-nodejs-settimeout-setimmediate-vs-process-nexttick-37c852c67acb)
+4. [The Difference in Event Loop between JavaScript and Node.js](https://wearecommunity.io/communities/aep-js-community/articles/2893)
 
 ## Progressive Web Application (PWA)
 1. [Your First Progressive Web App by *Google*](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
