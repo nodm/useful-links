@@ -253,3 +253,4 @@
 
 ### MFE
 1. [Server-side rendering micro-frontends – UI composer and service discovery](https://aws.amazon.com/blogs/compute/server-side-rendering-micro-frontends-ui-composer-and-service-discovery)
+2. [Dunelm’s journey to micro frontends on AWS](https://aws.amazon.com/blogs/industries/dunelms-journey-to-micro-frontends-on-aws/)
