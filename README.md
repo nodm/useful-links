@@ -167,6 +167,7 @@
 2. [Як працює Event Loop в NodeJS: внутрішня будова, фази та приклади by Oleksandr Vetoshkin](https://dou.ua/forums/topic/31698/)
 3. [Eventloop in NodeJS: setTimeout, setImmediate vs process.nextTick](https://medium.com/dkatalis/eventloop-in-nodejs-settimeout-setimmediate-vs-process-nexttick-37c852c67acb)
 4. [The Difference in Event Loop between JavaScript and Node.js](https://wearecommunity.io/communities/aep-js-community/articles/2893)
+5. [Node.js Child Processes: Everything you need to know](https://www.freecodecamp.org/news/node-js-child-processes-everything-you-need-to-know-e69498fe970a/)
 
 ## Progressive Web Application (PWA)
 1. [Your First Progressive Web App by *Google*](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
