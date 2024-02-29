@@ -169,6 +169,7 @@
 4. [The Difference in Event Loop between JavaScript and Node.js](https://wearecommunity.io/communities/aep-js-community/articles/2893)
 5. [Node.js Child Processes: Everything you need to know](https://www.freecodecamp.org/news/node-js-child-processes-everything-you-need-to-know-e69498fe970a/)
 6. [A Detailed look into the Node.js HTTP module](https://mirzaleka.medium.com/a-detailed-look-into-the-node-js-http-module-680eb5e4548a)
+7. [Node.js Streams: Everything you need to know](https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/)
 
 ## Progressive Web Application (PWA)
 1. [Your First Progressive Web App by *Google*](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
