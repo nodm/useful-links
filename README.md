@@ -160,6 +160,7 @@
 ## Next.js
 1. [How to use react-hook-form with Next.js Server Actions and Zod Input validation](https://nehalist.io/react-hook-form-with-nextjs-server-actions/)
 2. [Diving into Server Actions in Next.js 14](https://blog.logrocket.com/diving-into-server-actions-next-js-14/)
+3. [Advanced Routing in Next.js: Dynamic Routes, Nested Routes, and Middleware](https://medium.com/@V-Blaze/advanced-routing-in-next-js-dynamic-routes-nested-routes-and-middleware-03e0f7db4436)
 
 ## GraphQL, Appolo
 1. [GraphQL: Everything You Need to Know, Weblab Technology](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
