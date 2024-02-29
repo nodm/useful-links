@@ -26,6 +26,8 @@
 ## Algorithm
 1. [Big O CheatSheet](https://www.bigocheatsheet.com/)
 2. [Шпаргалка для алгособеса — алгоритмическая сложность, структуры данных, методы сортировки и Дейкстра](https://habr.com/ru/articles/794556/)
+3. [Dijkstra’s Algorithm in JavaScript](https://reginafurness.medium.com/dijkstras-algorithm-in-javascript-4b5db48a93d4)
+4. [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
 
 ## JavaScript Engines
 1. [Rendering: repaint, reflow/relayout, restyle by Stoyan Stefanov](https://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
