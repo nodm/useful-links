@@ -26,6 +26,7 @@
 
 ## Algorithm
 1. [Big O CheatSheet](https://www.bigocheatsheet.com/)
+2. [Шпаргалка для алгособеса — алгоритмическая сложность, структуры данных, методы сортировки и Дейкстра](https://habr.com/ru/articles/794556/)
 
 ## JavaScript Engines
 1. [Rendering: repaint, reflow/relayout, restyle by Stoyan Stefanov](https://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
