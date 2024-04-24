@@ -28,6 +28,7 @@
 2. [Шпаргалка для алгособеса — алгоритмическая сложность, структуры данных, методы сортировки и Дейкстра](https://habr.com/ru/articles/794556/)
 3. [Dijkstra’s Algorithm in JavaScript](https://reginafurness.medium.com/dijkstras-algorithm-in-javascript-4b5db48a93d4)
 4. [Dijkstra's Shortest Path Algorithm - A Detailed and Visual Introduction](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/)
+5. [What Is Big O Notation?](https://www.youtube.com/watch?v=Q_1M2JaijjQ&t=5s)
 
 ## JavaScript Engines
 1. [Rendering: repaint, reflow/relayout, restyle by Stoyan Stefanov](https://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
@@ -52,10 +53,11 @@
   * [The internals of classes and inheritance + transpiling in Babel and TypeScript](https://blog.sessionstack.com/how-javascript-works-the-internals-of-classes-and-inheritance-transpiling-in-babel-and-113612cdc220)
   * [Storage engines + how to choose the proper storage API](https://blog.sessionstack.com/how-javascript-works-storage-engines-how-to-choose-the-proper-storage-api-da50879ef576)
   * [The internals of Shadow DOM + how to build self-contained components](https://blog.sessionstack.com/how-javascript-works-the-internals-of-shadow-dom-how-to-build-self-contained-components-244331c4de6e)
-  * [WebRTC and the mechanics of peer to peer networking](https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab)
+  * [WebRTC and the mechanics of peer-to-peer networking](https://blog.sessionstack.com/how-javascript-works-webrtc-and-the-mechanics-of-peer-to-peer-connectivity-87cc56c1d0ab)
 
 6. [Browser Event loop: micro and macro tasks, call stack, render queue: layout, paint, composite](https://blog.xnim.me/event-loop-and-render-queue)
 7. [JavaScript event Loop Visualizer](https://www.jsv9000.app/?code=c2V0VGltZW91dChmdW5jdGlvbiBhKCkgeyBjb25zb2xlLmxvZygnTWFjcm8gVGFzaycpIH0sIDApOwoKUHJvbWlzZS5yZXNvbHZlKCkKLnRoZW4oZnVuY3Rpb24gYigpIHsgY29uc29sZS5sb2coJ01pY3JvIHRhc2snKSB9KTsKCmNvbnNvbGUubG9nKCdZbycpOw%3D%3D)
+8. [JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue by Lydia Hallie](https://www.youtube.com/watch?v=eiC58R16hb8)
 
 ## JavaScript
 ### Books
@@ -163,6 +165,10 @@
 2. [Diving into Server Actions in Next.js 14](https://blog.logrocket.com/diving-into-server-actions-next-js-14/)
 3. [Advanced Routing in Next.js: Dynamic Routes, Nested Routes, and Middleware](https://medium.com/@V-Blaze/advanced-routing-in-next-js-dynamic-routes-nested-routes-and-middleware-03e0f7db4436)
 4. [A Next.js package for managing third-party libraries](https://developer.chrome.com/blog/next-third-parties?hl=en)
+5. [ZackJackson - Module Federation, With Next.js and SSR](https://www.youtube.com/watch?v=yU7ARATZoUU)
+6. [Next.js 14 Tutorial - Codevolution YouTube course](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)
+7. [Next.js 14 Full Course 2024 | Build and Deploy a Full Stack App Using the Official React Framework - YouTube course by JavaScript Mastery
+](https://www.youtube.com/watch?v=wm5gMKuwSYk)
 
 ## GraphQL, Appolo
 1. [GraphQL: Everything You Need to Know, Weblab Technology](https://medium.com/@weblab_tech/graphql-everything-you-need-to-know-58756ff253d8)
@@ -176,6 +182,7 @@
 5. [Node.js Child Processes: Everything you need to know](https://www.freecodecamp.org/news/node-js-child-processes-everything-you-need-to-know-e69498fe970a/)
 6. [A Detailed look into the Node.js HTTP module](https://mirzaleka.medium.com/a-detailed-look-into-the-node-js-http-module-680eb5e4548a)
 7. [Node.js Streams: Everything you need to know](https://www.freecodecamp.org/news/node-js-streams-everything-you-need-to-know-c9141306be93/)
+8. [Node.js Tutorial - Codevolution YouTube course](https://www.youtube.com/playlist?list=PLC3y8-rFHvwh8shCMHFA5kWxD9PaPwxaY)
 
 ## Progressive Web Application (PWA)
 1. [Your First Progressive Web App by *Google*](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0)
@@ -231,6 +238,8 @@
 ### API
 1. [News api](https://newsapi.org/)
 2. [The Ergast Developer API is an experimental web service which provides a historical record of motor racing data for non-commercial purposes.](https://ergast.com/mrd/)
+### Git
+1. [So You Think You Know Git - FOSDEM 2024 - Scott Chacon's talk on Git Tips and Tricks](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
 
 ### Interesting
 1. [Шесть задачек для Front-End разработчика (Форма кредитной карты)](https://habr.com/ru/company/edison/blog/473894/)
