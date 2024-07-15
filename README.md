@@ -152,6 +152,9 @@
    * [Jotai](https://jotai.org/docs/introduction)
    * [Recoil](https://recoiljs.org/)
 10. [useEffect sometimes fires before paint](https://thoughtspile.github.io/2021/11/15/unintentional-layout-effect/)
+11. RSC
+    * [Making Sense of React Server Components by Josh Cameau](https://www.joshwcomeau.com/react/server-components/)
+    * [Devtools for React Server Components by Alvar Lagerlöf](https://www.alvar.dev/blog/creating-devtools-for-react-server-components)
 
 ## React Libraries
 1. [React-WinBox - A React-controlled component for WinBox.js](https://github.com/RickoNoNo3/react-winbox)
